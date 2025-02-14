@@ -1,4 +1,4 @@
 # Hockey-Predictions
 Northeastern Women's Hockey Team game predictions for number of goals scored and game winner probabilities using ML models such as SVM, Feed Forward Neural Networks and Random Forests.
 
-This for Northeastern University's Sports Analytics Club's hackathon. Every week, we put in predictions about which team will win and how any goals each will score.
+This project is for Northeastern University Sports Analytics Club's Hockey Hackathon. For each game we submit Northeastern's probability of winning as well as a predicted score. We are currently in second place.
